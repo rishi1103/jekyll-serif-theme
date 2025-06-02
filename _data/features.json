@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "AI-Powered Insights",
+    "description": "Leverage advanced AI for deep political analysis and predictive modeling.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Strategic Campaigning",
+    "description": "Comprehensive campaign management from digital outreach to ground-level execution.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Leadership Development",
+    "description": "Personalized branding and support for creating tomorrow's influential leaders.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
