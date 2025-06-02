@@ -10,15 +10,14 @@ We are eager to discuss how POLCO's innovative, AI-driven political consulting s
 
 Please reach out to us to explore a partnership or to learn more about our services.
 
-**Email:** [info@polco.in](mailto:info@polco.in)
+**Email:** [polcoventures@gmail.com](mailto:polcoventures@gmail.com)
 
-**Phone:** [Your Phone Number Here - if applicable]
+**Phone:** +91 9413852098
 
 **Address:**
 Polco Pvt. Ltd.
-[Your Company Address Here - if applicable]
 
-Alternatively, you can fill out the form below, and one of our representatives will get back to you shortly.
+<!-- Alternatively, you can fill out the form below, and one of our representatives will get back to you shortly. -->
 
 <!-- Keep your existing contact form here if you have one -->
 <!-- Example:
