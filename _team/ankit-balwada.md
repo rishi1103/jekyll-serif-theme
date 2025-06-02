@@ -3,7 +3,7 @@ title: "Ankit Balwada"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Graphic Designer"
-linkedinurl: ""
+linkedinurl: "https://www.linkedin.com/in/ankit-balwada-859323128/"
 weight: 7
 promoted: true
 ---

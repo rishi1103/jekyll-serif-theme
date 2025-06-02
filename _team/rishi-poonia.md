@@ -1,9 +1,9 @@
 ---
 title: "Rishi Poonia"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: "CTO"
-linkedinurl: ""
+linkedinurl: "https://www.linkedin.com/in/rishipoonia/"
 weight: 7
 promoted: true
 ---
