@@ -1,16 +1,34 @@
 ---
-title: Contact
-layout: contact
-description: Contact
+layout: page # Or your existing layout
+title: Contact POLCO
+description: "Get in touch with POLCO for AI-driven political consulting services."
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+## Get in Touch with POLCO
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+We are eager to discuss how POLCO's innovative, AI-driven political consulting services can support your vision and objectives. Whether you are planning a campaign, seeking to enhance your public outreach, or aiming to leverage data for better governance, our team is ready to assist.
+
+Please reach out to us to explore a partnership or to learn more about our services.
+
+**Email:** [info@polco.in](mailto:info@polco.in)
+
+**Phone:** [Your Phone Number Here - if applicable]
+
+**Address:**
+Polco Pvt. Ltd.
+[Your Company Address Here - if applicable]
+
+Alternatively, you can fill out the form below, and one of our representatives will get back to you shortly.
+
+<!-- Keep your existing contact form here if you have one -->
+<!-- Example:
+<form action="your_form_handler_url" method="POST">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name"><br>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email"><br>
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message"></textarea><br><br>
+  <input type="submit" value="Send Message">
+</form>
+-->
