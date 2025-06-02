@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Polco'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
