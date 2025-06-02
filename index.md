@@ -1,7 +1,11 @@
 ---
-layout: default # Or your existing layout for the homepage
+layout: home # Or your existing layout for the homepage
 title: POLCO - AI-Powered Political Consulting
 description: "POLCO offers innovative AI-based solutions for political marketing, outreach, and campaign strategy. Creating Leaders for Tomorrow."
+intro_image: "images/illustrations/pointing.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+show_call_box: true
 # ... any other front matter variables
 ---
 
