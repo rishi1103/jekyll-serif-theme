@@ -1,8 +1,10 @@
 ---
 title: Our Team
-layout: page # Or your existing layout
+layout: teams # Or your existing layout
 description: "Meet the dedicated team of experts at POLCO, driving political innovation."
-bodyClass: page-team # Or your existing bodyClass
+permalink: "/team/"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 ## The POLCO Team: Experts in Political Innovation
