@@ -1,5 +1,5 @@
 ---
-layout: page # Or your existing layout
+layout: contact # Or your existing layout
 title: Contact POLCO
 description: "Get in touch with POLCO for AI-driven political consulting services."
 ---
